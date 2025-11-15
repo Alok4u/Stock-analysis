@@ -48,6 +48,6 @@ The solution is divided into two parts as required:
     ```
 ---
 
-### ✅ Result Snapshot (Sample Output)
+### ✅ Result 
 
-*This section will contain the actual output from your run, which you should paste here.*
+Sector Momentum Analysis (Last 5 Trading Days) 🚀 --- Day 1: Oil & Gas (-0.95%) Day 2: Oil & Gas (-0.96%) Day 3: Oil & Gas (-0.97%) Day 4: Oil & Gas (-0.98%)
